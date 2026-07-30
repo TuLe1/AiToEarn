@@ -59,7 +59,7 @@ channel:
     redirectUri: https://localhost/api/v2/channels/accounts/auth/bilibili/callback
     logoUrl: https://assets.aitoearn.ai/platforms/bilibili.svg
   douyin:
-    status: available
+    status: hidden
     clientId: ""
     clientSecret: ""
     redirectUri: https://localhost/api/v2/channels/accounts/auth/douyin/callback
